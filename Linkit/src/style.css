@@ -9,9 +9,15 @@
     "wdth" 100;
 }
 
+html,
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
 #quote {
-  font-family: "Merienda", cursive;
-  font-optical-sizing: auto;
-  font-weight: 400;
+  font-family: "Englebert", cursive;
+  font-size: large;
+  font-weight: 800;
   font-style: normal;
 }
